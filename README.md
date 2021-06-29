@@ -1,5 +1,5 @@
 # CS403 Practice Problems
-A collection of the practice problems for CS403. These are the most recent recommended practice problems and they can be found [here](http://cs403.cs.ua.edu/fall2020/exercises.htm). Each language (Scheme, Haskell, Prolog, Smalltalk, Cilk) has their own table of problems that you can find below. 
+A collection of the practice problems for CS403. These are the most recent recommended practice problems and they can be found [here](http://cs403.cs.ua.edu/fall2020/exercises.htm). Each language (Scheme, Haskell, Prolog, Smalltalk, Cilk) has their own table of problems that you can find below. You can find the exam problems [here](http://cs403.cs.ua.edu/fall2020/exams.htm).
 
 <!-- &#9744; box with no check -->
 <!-- &#9745; box with check -->

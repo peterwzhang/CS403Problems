@@ -1,0 +1,1 @@
+We can store a binary search tree in Prolog as a nested list that has this structure: [root, left_subtree, right_subtree].  Write the predicate member(X, T) which succeeds iff X is a key in binary search tree T.  Also write predicates insert(X, T, NewT) and remove(X, T, NewT) where NewT denotes the resulting modified tree.

@@ -1,0 +1,1 @@
+Write predicates insertion_sort(L,Z), selection_sort(L,Z), merge_sort(L,Z), and quick_sort(L,Z).  Here L is a list, and Z is the same list rearranged into sorted order.  You will also need to write some helper functions.

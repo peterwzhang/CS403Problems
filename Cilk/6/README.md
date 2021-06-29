@@ -1,0 +1,1 @@
+Which of the above functions can you write using cilk_for?  Which functions require using cilk_spawn and cilk_sync?

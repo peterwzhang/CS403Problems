@@ -1,0 +1,1 @@
+Create a database of your family members.  Include facts and rules for parent, father, mother, child, son, daughter, sibling, brother, sister, grandparent, grandchild, ancestor, descendant, aunt, uncle, niece, nephew, cousin.  Try to have as few facts as possible, and then use rules as much as possible to infer all the remaining relations.

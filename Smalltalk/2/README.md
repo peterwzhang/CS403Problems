@@ -1,0 +1,1 @@
+Write classes in Smalltalk that implement each of these abstract data types:  stack, queue, deck (double-ended queue), and binary search tree.  Provide methods for adding and removing elements, for traversing the data structure, and iterator methods such as do: and collect:.
