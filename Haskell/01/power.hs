@@ -5,9 +5,9 @@ power m n
 
 main ::IO()
 main = do
-    putStrLn "Enter a base number:"
+    putStrLn "Enter a base number (m):"
     in1 <- getLine
-    putStrLn "Enter an exponent:"
+    putStrLn "Enter an exponent (n):"
     in2 <- getLine
     let base = (read in1 :: Integer)
     let exponent = (read in2 :: Integer)

@@ -33,7 +33,7 @@ A collection of the practice problems for CS403. These are the most recent recom
 |Number| Problem Description                    |Finished|
 |:----:|----------------------------------------|:------:|
 |[1](Haskell/01)|Write a power function such that (power m n) returns m raised to the power n, where n is non-negative integer.|&#9745;|
-|[2](Haskell/02)|Write a log function such that (log m q) returns n such that (power m n) returns q.|&#9744;|
+|[2](Haskell/02)|Write a log function such that (log m q) returns n such that (power m n) returns q.|&#9745;|
 |[3](Haskell/03)|Write a comb function such that (comb n k) returns the number of combinations n-choose-k.|&#9744;|
 |[4](Haskell/04)|Write an insertion_sort function such that (insertion_sort L) returns the elements of L rearranged into ascending order.|&#9744;|
 |[5](Haskell/05)|Write a selection_sort function.|&#9744;|
