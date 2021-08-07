@@ -1,10 +1,12 @@
 # CS403 Practice Problems
+
 A collection of the practice problems for CS403. These are the most recent recommended practice problems and they can be found [here](http://cs403.cs.ua.edu/fall2020/exercises.htm). Each language (Scheme, Haskell, Prolog, Smalltalk, Cilk) has their own table of problems that you can find below. You can find the exam problems [here](http://cs403.cs.ua.edu/fall2020/exams.htm).
 
 <!-- &#9744; box with no check -->
 <!-- &#9745; box with check -->
 
 ## Scheme (Functional Programming)
+
 |Number| Problem Description                    |Finished|
 |:----:|----------------------------------------|:------:|
 |[1](Scheme/01)|Write a power function such that (power m n) returns m raised to the power n, where n is non-negative integer.|&#9744;|
@@ -30,6 +32,7 @@ A collection of the practice problems for CS403. These are the most recent recom
 |[21](Scheme/21)|Also see Exam 1 from Fall 2019 semester|&#9744;|
 
 ## Haskell (Functional Programming)
+
 |Number| Problem Description                    |Finished|
 |:----:|----------------------------------------|:------:|
 |[1](Haskell/01)|Write a power function such that (power m n) returns m raised to the power n, where n is non-negative integer.|&#9745;|
@@ -55,6 +58,7 @@ A collection of the practice problems for CS403. These are the most recent recom
 |[21](Haskell/21)|Also see Exam 1 from Fall 2019 semester|&#9744;|
 
 ## Prolog (Logic Programming)
+
 |Number| Problem Description                    |Finished|
 |:----:|----------------------------------------|:------:|
 |[1](Prolog/01)|Create a database of your family members.  Include facts and rules for parent, father, mother, child, son, daughter, sibling, brother, sister, grandparent, grandchild, ancestor, descendant, aunt, uncle, niece, nephew, cousin.  Try to have as few facts as possible, and then use rules as much as possible to infer all the remaining relations.|&#9744;|
@@ -68,6 +72,7 @@ A collection of the practice problems for CS403. These are the most recent recom
 |[9](Prolog/09)|Also see Exam 3 from Fall 2019 semester|&#9744;|
 
 ## Smalltalk (Object-origented Programming)
+
 |Number| Problem Description                    |Finished|
 |:----:|----------------------------------------|:------:|
 |[1](Smalltalk/01)|Write classes in Smalltalk that implement each of these abstract data types:  fraction and complex number.  Provide methods for standard arithmetic operations such as +, -, *, /, and =.|&#9744;|
@@ -80,6 +85,7 @@ A collection of the practice problems for CS403. These are the most recent recom
 |[8](Smalltalk/08)|Also see Exam 4 from Fall 2019 semester|&#9744;|
 
 ## Cilk/Cilk++ (Parallel Programming)
+
 |Number| Problem Description                    |Finished|
 |:----:|----------------------------------------|:------:|
 |[1](Cilk/01)|Write functions that square or cube all the elements in a given 1D or 2D array.  Also write a general "map" function for a 1D array.|&#9744;|
